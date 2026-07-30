@@ -1,4 +1,4 @@
-# Bright-coffee-shop-case-study consist of four files that reads as follows
+# Bright-coffee-shop-case-study consist of four folders that reads as follows
 
 Data processing - where data is explored in SQL on databricks
 
